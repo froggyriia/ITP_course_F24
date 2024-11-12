@@ -1,3 +1,5 @@
+package lab11;
+
 enum Level {
     LOW(1),
     MEDIUM(2),
