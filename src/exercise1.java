@@ -27,6 +27,7 @@ public class exercise1 {
     public static void main(String[] args) {
         Level level = Level.MEDIUM;
         System.out.println(level.getLevelCode());
+        System.out.println("i'm experimenting");
 
     }
 }
